@@ -2,7 +2,7 @@ Code for paper:
 ---------------
 ### NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps.
 
-*Kristina Gligorić, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky, (2024)*
+*Kristina Gligorić, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky (2024)*
 
 arXiv: https://arxiv.org/pdf/2404.01651.pdf
 
